@@ -1,0 +1,29 @@
+int int_var;
+bool bool_var;
+char char_var;
+double double_var;
+
+int* int_ptr;
+bool* bool_ptr;
+char* char_ptr;
+double* double_ptr;
+
+int int_arr[8];
+bool bool_arr[8];
+char char_arr[8];
+double double_arr[8];
+
+int* int_ptr_arr[8];
+bool* bool_ptr_arr[8];
+char* char_ptr_arr[8];
+double* double_ptr_arr[8];
+
+int multible, int_variable, declaration;
+bool multible, bool_variable, declaration;
+char multible, char_variable, declaration;
+double multible, double_variable, declaration;
+
+int* multible, int_ptr_variable, declaration;
+bool* multible, bool_ptr_variable, declaration;
+char* multible, char_ptr_variable, declaration;
+double* multible, double_ptr_variable, declaration;

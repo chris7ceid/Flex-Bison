@@ -1,0 +1,10 @@
+int intFunc();
+bool boolFunc();
+char charFunc();
+double doubleFunc();
+void voidFunc();
+
+int* intPtrFunc();
+bool* boolPtrFunc();
+char* charPtrFunc();
+double* doublePtrFunc();

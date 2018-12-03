@@ -1,0 +1,8 @@
+// Comments Test
+/* Comments Test */
+char rafael();
+
+char rafael()
+{
+	return 'a';	
+}

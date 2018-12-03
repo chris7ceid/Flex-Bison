@@ -1,0 +1,157 @@
+// Comments Test 
+/* Comments Test */
+int rafael;
+
+int int_var;
+bool bool_var;
+char char_var;
+double double_var;
+
+int* int_ptr;
+bool* bool_ptr;
+char* char_ptr;
+double* double_ptr;
+
+int int_arr[8];
+bool bool_arr[8];
+char char_arr[8];
+double double_arr[8];
+
+int* int_ptr_arr[8];
+bool* bool_ptr_arr[8];
+char* char_ptr_arr[8];
+double* double_ptr_arr[8];
+
+int multible, int_variable, declaration;
+bool multible, bool_variable, declaration;
+char multible, char_variable, declaration;
+double multible, double_variable, declaration;
+
+int* multible, int_ptr_variable, declaration;
+bool* multible, bool_ptr_variable, declaration;
+char* multible, char_ptr_variable, declaration;
+double* multible, double_ptr_variable, declaration;
+
+int intFunc();
+bool boolFunc();
+char charFunc();
+double doubleFunc();
+void voidFunc();
+
+int* intPtrFunc();
+bool* boolPtrFunc();
+char* charPtrFunc();
+double* doublePtrFunc();
+
+int intFunc(int int_var);
+int intFuncP(int* int_ptr);
+bool boolFunc(bool bool_var);
+bool boolFuncP(bool* bool_ptr);
+double intFunc(int int_var);
+double intFuncP(double* double_ptr);
+int intFunc(int int_val);
+int intFuncP(int* int_ptr);
+void intFunc(int* int_ptr);
+
+int intFunc(byref int int_var);
+int intFuncP(byref int* int_ptr);
+bool boolFunc(byref bool bool_var);
+bool boolFuncP(byref bool* bool_ptr);
+double intFunc(byref int int_var);
+double intFuncP(byref double* double_ptr);
+int intFunc(byref int int_val);
+int intFuncP(byref int* int_ptr);
+void intFunc(byref int* int_ptr);
+
+int* intFunc(int int_var);
+int* intFuncP(int* int_ptr);
+bool* boolFunc(bool bool_var);
+bool* boolFuncP(bool* bool_ptr);
+double* intFunc(int int_var);
+double* intFuncP(double* double_ptr);
+int* intFunc(int int_val);
+int* intFuncP(int* int_ptr);
+
+int* intFunc(byref int int_var);
+int* intFuncP(byref int* int_ptr);
+bool* boolFunc(byref bool bool_var);
+bool* boolFuncP(byref bool* bool_ptr);
+double* intFunc(byref int int_var);
+double* intFuncP(byref double* double_ptr);
+int* intFunc(byref int int_val);
+int* intFuncP(byref int* int_ptr);
+
+int intFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+bool boolFunc(byref int* int_ptr, 
+	byref int int_var, 
+	byref bool flag,
+	byref bool* flag, 
+	byref char char_var, 
+	byref char* char_ptr, 
+	byref double double_var, 
+	byref double* double_ptr);
+char charFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+double doubleFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+void voidFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+
+int* intPtrFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+bool* boolPtrFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+char* charPtrFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+double* doublePtrFunc(int* int_ptr, 
+	int int_var, 
+	bool flag, 
+	bool* flag, 
+	char char_var, 
+	char* char_ptr, 
+	double double_var, 
+	double* double_ptr);
+

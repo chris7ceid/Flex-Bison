@@ -1,0 +1,17 @@
+bool funcWithStatements(int sss);
+bool funcWithStatements(int sss)
+{
+	
+	true;
+	false;
+	
+	break rafael;
+	break;
+	continue rafael;
+	continue;
+	if(true);
+	rafael:for(;;);
+	return false;
+}
+
+

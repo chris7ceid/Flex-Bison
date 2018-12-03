@@ -1,0 +1,10 @@
+int funcWithIf(int sss);
+int funcWithIf(int sss)
+{
+	int rafael;
+bool a;
+	a= true;
+	rafael;
+
+	return 1;
+}

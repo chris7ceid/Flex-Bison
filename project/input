@@ -1,0 +1,15 @@
+void funcWithDefinitions();
+
+void funcWithDefinitions()
+{
+	int int_val;
+	int* int_ptr;
+	
+	int_val = true;
+	
+	undeclaredFunction();
+	
+	int missing_semicolon
+	
+	return 1;
+}

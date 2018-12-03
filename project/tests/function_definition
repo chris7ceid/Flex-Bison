@@ -1,0 +1,22 @@
+void funcWithDefinitions1();
+void funcWithDefinitions2();
+bool funcWithReturn(int sss);
+
+void funcWithDefinitions1()
+{
+	int int_val;
+	int* int_ptr;
+	return;
+}
+
+void funcWithDefinitions2()
+{
+	int int_val;
+	int* int_ptr;
+	return;
+}
+
+bool funcWithReturn(int sss)
+{
+	return true;
+}

@@ -1,0 +1,42 @@
+bool funcWithFor(int sss);
+bool funcWithFor2(int sss);
+bool funcWithForAndId(int sss);
+
+bool funcWithFor(int sss)
+{
+	for(true; true; true)
+		;
+	return true;
+}
+
+bool funcWithFor2(int sss)
+{
+	for(;;)
+	{
+		;
+		break;
+	}
+	
+	for(true; true; true)
+	{
+		;
+		continue rafael;
+	}
+	
+	for(; ; );
+	for(true; ; );
+	for(true; true; );
+	for(true; true; true);
+	for(; true; true);
+	for(; ; true);
+	for(; true; );
+	return true;
+}
+
+bool funcWithForAndId(int sss)
+{
+	rafael: for(;;);
+	
+	for(; ; );
+	return true;
+}

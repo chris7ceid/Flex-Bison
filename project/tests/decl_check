@@ -1,0 +1,24 @@
+int int_var;
+bool bool_var;
+char char_var;
+double double_var;
+
+
+int intFunc();
+bool boolFunc();
+char charFunc();
+double doubleFunc();
+
+
+void funcWithDefinitions()
+{
+	int int_val;
+	int* int_ptr;
+}
+
+int intFunc()
+{
+	int int_val;
+	int* int_ptr;
+	return 1;
+}

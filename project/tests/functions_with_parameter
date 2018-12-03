@@ -1,0 +1,39 @@
+int intFunc(int int_var);
+int intFuncP(int* int_ptr);
+bool boolFunc(bool bool_var);
+bool boolFuncP(bool* bool_ptr);
+double intFunc(int int_var);
+double intFuncP(double* double_ptr);
+int intFunc(int int_val);
+int intFuncP(int* int_ptr);
+void intFunc(int* int_ptr);
+
+int intFunc(byref int int_var);
+int intFuncP(byref int* int_ptr);
+bool boolFunc(byref bool bool_var);
+bool boolFuncP(byref bool* bool_ptr);
+double intFunc(byref int int_var);
+double intFuncP(byref double* double_ptr);
+int intFunc(byref int int_val);
+int intFuncP(byref int* int_ptr);
+void intFunc(byref int* int_ptr);
+
+int* intFunc(int int_var);
+int* intFuncP(int* int_ptr);
+bool* boolFunc(bool bool_var);
+bool* boolFuncP(bool* bool_ptr);
+double* intFunc(int int_var);
+double* intFuncP(double* double_ptr);
+int* intFunc(int int_val);
+int* intFuncP(int* int_ptr);
+
+int* intFunc(byref int int_var);
+int* intFuncP(byref int* int_ptr);
+bool* boolFunc(byref bool bool_var);
+bool* boolFuncP(byref bool* bool_ptr);
+double* intFunc(byref int int_var);
+double* intFuncP(byref double* double_ptr);
+int* intFunc(byref int int_val);
+int* intFuncP(byref int* int_ptr);
+
+	

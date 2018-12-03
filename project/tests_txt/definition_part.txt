@@ -1,0 +1,114 @@
+void funcWithDefinitions();
+void funcWithDefinitions2();
+bool funcWithReturn(int sss);
+int funcWithIf(int sss);
+bool funcWithFor(int sss);
+bool funcWithFor2(int sss);
+bool funcWithStatements(int sss);
+bool funcWithForAndId(int sss);
+
+void funcWithDefinitions()
+{
+	int int_val;
+	int* int_ptr;
+	return;
+}
+
+void funcWithDefinitions2()
+{
+	int int_val;
+	int* int_ptr;
+	return;
+}
+
+bool funcWithReturn(int sss)
+{
+	return true;
+}
+
+int funcWithIf(int sss)
+{
+	int rafael;
+	true;
+	if(true)
+	{
+		;
+		;
+	}
+	
+	if(false)
+		;
+	else
+		;
+		
+	if(true)
+	{
+		;
+		;
+	}
+	else
+	{
+		;
+		;
+	}
+	return 1;
+}
+
+bool funcWithFor(int sss)
+{
+	for(true; true; true)
+		;
+	return true;
+}
+
+bool funcWithFor2(int sss)
+{
+	for(;;)
+	{
+		;
+		break;
+	}
+	
+	for(true; true; true)
+	{
+		;
+		continue rafael;
+	}
+	
+	for(; ; );
+	for(true; ; );
+	for(true; true; );
+	for(true; true; true);
+	for(; true; true);
+	for(; ; true);
+	for(; true; );
+	return true;
+}
+
+bool funcWithForAndId(int sss)
+{
+	rafael: for(;;);
+	
+	for(; ; );
+
+	return true;
+}
+
+bool funcWithStatements(int sss)
+{
+	;
+	true;
+	false;
+	return false;
+	return true;
+	return;
+	break rafael;
+	break;
+	continue rafael;
+	continue;
+	if(true);
+	for(;;);
+	return true;
+}
+
+

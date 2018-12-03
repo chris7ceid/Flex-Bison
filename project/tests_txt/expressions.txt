@@ -1,0 +1,62 @@
+bool funcWithExpretions(int sss);
+int rafael(bool b);
+int func();
+
+int rafael;
+int i,j,a,b,c,d,e;
+int array[20];
+int index;
+int *ptr;
+int address;
+bool flag;
+
+bool funcWithExpretions(int sss)
+{
+	rafael(true);
+	true;
+	false;
+	null;
+	234;
+	rafael;
+	123.2;
+	func();
+	func(a, b, c, 1, 'a');
+	array[index];
+	*ptr;
+	&address;
+	+a;
+	-a;
+	!flag;
+	5*5;
+	5/5;
+	5%5;
+	5.5+5.5;
+	5-5;
+	5<5;
+	5>5;
+	5<=5;
+	5>=5;
+	5==5;
+	5!=5;
+	5&&5;
+	5||5;
+	a,a;
+	++i;
+	--i;
+	i++;
+	i--;
+	i+j;
+	(double)i;
+	i=4;
+	i+=5;
+	i-=5;
+	i*=5;
+	i%=5;
+	i/=5;
+	(true) ? i=1 : i=0;
+	new int;
+	new int[index];
+	delete i;
+	a,b,c,e;
+	return true;
+}
